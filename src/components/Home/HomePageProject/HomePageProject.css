@@ -1,0 +1,8 @@
+
+
+ .card:hover{
+    transform: scale(1.1);
+    z-index: index 3 ;
+    
+  }
+  image:hover{filter: blur(5px)}

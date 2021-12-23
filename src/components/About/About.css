@@ -1,0 +1,19 @@
+ /* .card:hover{
+    background-image: linear-gradient(75deg, #19D3AE,#0fcfec);
+    color: #fff !important;
+    transition:  .1s  all ease-in-out !important;
+}
+.card:hover .card-body{
+    background-image: url(../../images/quote.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 60%;
+}
+.card:hover h6,
+.card:hover h1
+{
+    color: #fff !important;
+
+}
+.card:hover img{
+    display: none; */
